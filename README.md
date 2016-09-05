@@ -4,3 +4,4 @@ Most of Embedded Linux devices have USB client device. This project enables embe
 Juhyun Kyong, Gu-Min Jeong, Minsuk Lee, Chanik Park, and Sung-Soo Lim, “A Systematic Debugging and Performance Analysis Framework for Android Platforms”, Proceedings of 2012 International Workshop on Performance, Applications, and Parallelism for Android and HTML5, Venice, Italy, June 2012. [Paper](PAPAH2012.pdf)
 * original project page : http://sourceforge.net/projects/usbdevicesuppor/
 
+* 경주현, 임성수, 이민석, 허성민, “안드로이드 스마트폰을 위한 USB기반 통합 디버깅 방법”, 정보과학회 논문지, 제39권 제2호, pp.170 ~ 177, 2012년 4월. 
