@@ -1,0 +1,3 @@
+# Use as a terminal server with USB 
+sudo ./android-agent-proxy 5550^5551 0 v
+
